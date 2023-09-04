@@ -49,21 +49,43 @@ mywater® is a water technology company specializing in smart and AI-based water
 - Amount of glasses consumed by the user
 - Number of bottles saved
 
+
 <p align="center">
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-2.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-3.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-4.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-1.png" width="200" />
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-2.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-3.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-4.png" width="200"/>
 </p>
 
 
 
 **Tech Used**
-- Flutter, Dart
 - Swift, Objective-C
 - MVC
 
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/hara-bhara-pakistan/id1433804755) | [`📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=com.d4sys.harabharapakistan&hl=en_CA&gl=US)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/mywater-pk/id1464485043) 
+
+
+## My Optix
+With My Optix App, managing your account, payments and getting support is fast and easy. Use it to view and pay your bill, run speed tests or chat with customer care agent all from your smartphone device.<br>
+Manage your My Optix account. View your account details, including your current balance and previous statements, and quickly manage your payments.
+Get support from Optix Fiber team. Find answers to common issues, log your complaint directly or contact Optix Fiber team member to get help.
+
+
+<p align="center">
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/OP-2.png"  />
+  <br>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/OP-1.png" />
+ 
+</p>
+
+
+
+**Tech Used**
+- Swift, Objective-C
+- MVC
+
+[`📲 Available on the App Store`](https://apps.apple.com/pk/app/my-optix/id1456128297) 
 
 ## Hara Bhara Pakistan
 Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.
@@ -90,14 +112,15 @@ Role: Team lead
 
 
 <p align="center">
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-1.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-2.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-3.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-4.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-5.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-6.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-7.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-8.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-1.png" width="200"  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-2.png" width="200"  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-3.png" width="200"  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-4.png" width="200"  
+   <br>
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-5.png" width="200"  />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-6.png" width="200"  />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-7.png" width="200"  />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-8.png" width="200"  />
 </p>
 
 
