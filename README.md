@@ -2,8 +2,8 @@
 
 
 ## Spire Ingage
-Smart, AI-backed personal finance manager, easily integrated into your platform.
-Led the development of libraries, dynamic frameworks, and apps for iOS in Swift language. Spearheaded the development and implementation of Personal Finance Management modules based on open banking.
+Smart, AI-backed personal finance manager, easily integrated into your platform.<br>
+I led the development of libraries, dynamic frameworks, and apps for iOS in Swift language. Spearheaded the development and implementation of Personal Finance Management modules based on open banking.
 
 <p align="center">
 <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/spire-1.png" width="200"/>
@@ -16,12 +16,14 @@ Led the development of libraries, dynamic frameworks, and apps for iOS in Swift 
 - Swift, Objective-C
 - SwiftUI, UIkit
 - MVVM, Clean Architecture
+- Dynamic Framework development, Cocoapods Development
 
 
 ## HumWell
 HumWell, where convenience meets healthcare.
 With our round-the-clock healthcare consultation service accessible all over Pakistan, our customers can instantly connect to our medical experts, without any travel hassles.
-
+<br>
+As the lead developer, I initiated the project from scratch, I had to research Flutter and how to achieve Video Communication in the application, later on had to write native bindings to call native packages as Flutter was relatively new and had fewer support for WebRTC-related features. I was later promoted to Team Lead to lead and mentor 4 developers.
 <p align="center">
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-1.webp" height="200"  />
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-2.webp" height="200"  />
@@ -35,6 +37,8 @@ With our round-the-clock healthcare consultation service accessible all over Pak
 - Swift, Objective-C
 - WebRTC, Twilio, Native bindings Flutter To Native
 - Provider Pattern
+- Flutter Package/Plugin development
+- Cocoapod Development 
 
 [📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
 
@@ -62,6 +66,8 @@ mywater® is a water technology company specializing in smart and AI-based water
 **Tech Used**
 - Swift, Objective-C
 - MVC
+- Firebase Analytics, Push Notifications and Crashlytics
+- Custom Push Notification development using Notification and Content Extensions in iOS. 
 
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/mywater-pk/id1464485043) 
 
@@ -84,12 +90,16 @@ Get support from Optix Fiber team. Find answers to common issues, log your compl
 **Tech Used**
 - Swift, Objective-C
 - MVC
+- Firebase Analytics, Push Notifications and Crashlytics
+- Customized Speed Test control using APIs and flow used by Ookla for Speedtest.
+
 
 [`📲 Available on the App Store`](https://apps.apple.com/pk/app/my-optix/id1456128297) 
 
 ## Hara Bhara Pakistan
-Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.
+Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.<br>
 The initial version was developed natively in Swift and Android, and later on migrated to the Flutter framework.
+
 
 <p align="center">
 <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>
@@ -102,6 +112,8 @@ The initial version was developed natively in Swift and Android, and later on mi
 - Flutter, Dart
 - Swift, Objective-C
 - MVC
+- Google maps heatmaps, clustering, marker and Info window management, geofencing, and custom map styling.
+- what3words API
 
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/hara-bhara-pakistan/id1433804755) | [`📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=com.d4sys.harabharapakistan&hl=en_CA&gl=US)
 
@@ -129,7 +141,11 @@ Role: Team lead
 - Provider Pattern
 - Swift, Objective-C
 - MVC
-
+- Native bindings to use Apple's Core Location framework
+- Standard and significant location updates
+- Region monitoring
+- Beacon ranging
+- Compass headings
 
 ## Sindh Relief Initiative
 This application is an initiative to reach out to millions of families in Sindh based on daily wages to provide them with Ration bags. Sindh government partners with welfare organizations to record and manage uniform disbursement data.
@@ -148,4 +164,9 @@ This application is an initiative to reach out to millions of families in Sindh 
 
 [📲 Available on the App Store](
 https://apps.apple.com/us/app/sindh-relief-initiative/id1504750372) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.sri&hl=en_CA&gl=US)
+
+
+
+
+<!-- mycart, intrfaxe, custom firmware developmer esp8266, -->
 
