@@ -42,15 +42,16 @@ Provide a once and for All Solution To Your Vehicle Safety And Monitoring Needs.
 
 
 <p align="center">
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-1.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-2.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-3.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-4.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-5.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-6.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-7.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-8.png" width="200"/>
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-1.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-2.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-3.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-4.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-5.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-6.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-7.png" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-8.png" width="200" style="margin-right: 10px;" />
 </p>
+
 
 **Tech Used**
 - Flutter, Dart
