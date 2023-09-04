@@ -1,4 +1,4 @@
-# Developer-Portfolio
+# Portfolio
 
 
 ## Spire Ingage
@@ -17,6 +17,53 @@ Led the development of libraries, dynamic frameworks, and apps for iOS in Swift 
 - SwiftUI, UIkit
 - MVVM, Clean Architecture
 
+
+## HumWell
+HumWell, where convenience meets healthcare.
+With our round-the-clock healthcare consultation service accessible all over Pakistan, our customers can instantly connect to our medical experts, without any travel hassles.
+
+<p align="center">
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-1.webp" height="200"  />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-2.webp" height="200"  />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-3.webp" height="200" />
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-4.webp" height="200"  />
+</p>
+
+
+**Tech Used**
+- Flutter, Dart
+- Swift, Objective-C
+- WebRTC, Twilio, Native bindings Flutter To Native
+- Provider Pattern
+
+[📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
+
+
+## Mywater-app
+mywater® is a water technology company specializing in smart and AI-based water purification systems for homes and offices. With certified components, cutting edge sensor technology and sleek designs, our purifiers will transform the way water gets to your glass.
+
+- Real-time health status of filters
+- Service history
+- Billing
+- Water quality scan
+- Amount of glasses consumed by the user
+- Number of bottles saved
+
+<p align="center">
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-2.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-3.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-4.png" width="200"/>
+</p>
+
+
+
+**Tech Used**
+- Flutter, Dart
+- Swift, Objective-C
+- MVC
+
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/hara-bhara-pakistan/id1433804755) | [`📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=com.d4sys.harabharapakistan&hl=en_CA&gl=US)
 
 ## Hara Bhara Pakistan
 Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.
@@ -78,26 +125,4 @@ This application is an initiative to reach out to millions of families in Sindh 
 
 [📲 Available on the App Store](
 https://apps.apple.com/us/app/sindh-relief-initiative/id1504750372) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.sri&hl=en_CA&gl=US)
-
-## HumWell
-HumWell, where convenience meets healthcare.
-With our round-the-clock healthcare consultation service accessible all over Pakistan, our customers can instantly connect to our medical experts, without any travel hassles.
-
-<p align="center">
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-1.webp" height="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-2.webp" height="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-3.webp" height="200" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-4.webp" height="200"  />
-</p>
-
-
-**Tech Used**
-- Flutter, Dart
-- Swift, Objective-C
-- WebRTC, Twilio, Native bindings Flutter To Native
-- Provider Pattern
-
-[📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
-
-
 
