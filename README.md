@@ -6,10 +6,10 @@ Smart, Ai backed personal finance manager, easily integrated into your platform.
 Led the development of libraries, dynamic frameworks, and apps for iOS in Swift language. Spearheaded the development and implementation of Personal Finance Management modules based on open banking.
 
 <p align="center">
-<img src="spire-1.png" width="200"/>
-<img src="spire-2.png" width="200"/>
-<img src="spire-3.png" width="200"/>
-<img src="spire-4.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/spire-1.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/spire-2.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/spire-3.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/spire-4.png" width="200"/>
 </p>
 
 **Tech Used**
@@ -22,10 +22,10 @@ Through our app, we act as a focal point for existing actors scattered across th
 Coupled with our ground mobilisation of students and collaboration with environmental experts, Hara Bhara Pakistan is set to lead the charge towards the UN-recommended 12% forest cover in Pakistan.
 
 <p align="center">
-<img src="HBP-1.png" width="200"/>
-<img src="HBP-2.png" width="200"/>
-<img src="HBP-3.png" width="200"/>
-<img src="HBP-4.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-2.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-3.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-4.png" width="200"/>
 </p>
 
 **Tech Used**
@@ -33,5 +33,14 @@ Coupled with our ground mobilisation of students and collaboration with environm
 
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/hara-bhara-pakistan/id1433804755) | [`📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=com.d4sys.harabharapakistan&hl=en_CA&gl=US)
 
+## TRACK N TRAXE - EFFICIENT FLEET MANAGEMENT IN REAL-TIME
+A fully integrated and automated telematics platform, offering an efficient goal-driven fleet management system to facilitate business operations.
+Provide a once and for All Solution To Your Vehicle Safety And Monitoring Needs.
 
+<p align="center">
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-2.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-3.png" width="200"/>
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-4.png" width="200"/>
+</p>
 
