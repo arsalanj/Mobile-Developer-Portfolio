@@ -3,6 +3,7 @@
 
 ## Spire Ingage
 Smart, AI-backed personal finance manager, easily integrated into your platform.<br>
+**My Role**
 I led the development of libraries, dynamic frameworks, and apps for iOS in Swift language. Spearheaded the development and implementation of Personal Finance Management modules based on open banking.
 
 <p align="center">
