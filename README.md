@@ -21,9 +21,8 @@ I led the development of libraries, dynamic frameworks, and apps for iOS in Swif
 
 ## HumWell
 HumWell, where convenience meets healthcare.
-With our round-the-clock healthcare consultation service accessible all over Pakistan, our customers can instantly connect to our medical experts, without any travel hassles.
 <br>
-As the lead developer, I initiated the project from scratch, I had to research Flutter and how to achieve Video Communication in the application, later on had to write native bindings to call native packages as Flutter was relatively new and had fewer support for WebRTC-related features. I was later promoted to Team Lead to lead and mentor 4 developers.
+As the lead developer, I initiated the project from scratch, I had to research Flutter and how to achieve Video Communication in the application, and later on, had to write native bindings to call native packages as Flutter was relatively new and had fewer support for WebRTC-related features. I was later promoted to Team Lead to lead and mentor 4 developers.
 <p align="center">
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-1.webp" height="200"  />
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-2.webp" height="200"  />
@@ -46,13 +45,8 @@ As the lead developer, I initiated the project from scratch, I had to research F
 ## Mywater-app
 mywater® is a water technology company specializing in smart and AI-based water purification systems for homes and offices. With certified components, cutting edge sensor technology and sleek designs, our purifiers will transform the way water gets to your glass.
 
-- Real-time health status of filters
-- Service history
-- Billing
-- Water quality scan
-- Amount of glasses consumed by the user
-- Number of bottles saved
-
+<br>
+As a Senior iOS Developer, I played a pivotal role in Mywater-app, focusing on MVC architecture and maintaining clean, scalable code. From project inception to a successful App Store launch, I oversaw the entire development cycle, optimized performance, mentored junior developers, integrated third-party services, and ensured rigorous testing and documentation. My commitment to staying updated with the latest iOS trends and effective communication with stakeholders contributed to project success.
 
 <p align="center">
 <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-1.png" width="200" />
@@ -73,7 +67,8 @@ mywater® is a water technology company specializing in smart and AI-based water
 
 
 ## My Optix
-With My Optix App, managing your account, payments and getting support is fast and easy. Use it to view and pay your bill, run speed tests or chat with customer care agent all from your smartphone device.<br>
+With My Optix App, managing your account, payments and getting support is fast and easy. Use it to view and pay your bill, run speed tests or chat with customer care agent all from your smartphone device.
+<br>
 Manage your My Optix account. View your account details, including your current balance and previous statements, and quickly manage your payments.
 Get support from Optix Fiber team. Find answers to common issues, log your complaint directly or contact Optix Fiber team member to get help.
 
@@ -97,8 +92,9 @@ Get support from Optix Fiber team. Find answers to common issues, log your compl
 [`📲 Available on the App Store`](https://apps.apple.com/pk/app/my-optix/id1456128297) 
 
 ## Hara Bhara Pakistan
-Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.<br>
-The initial version was developed natively in Swift and Android, and later on migrated to the Flutter framework.
+Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.
+<br>
+The initial version was developed natively in Swift and Android, and later on migrated to the Flutter framework in under a week by yours truly.
 
 
 <p align="center">
