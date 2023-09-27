@@ -3,7 +3,7 @@
 
 ## Spire Ingage
 Smart, AI-backed personal finance manager, easily integrated into your platform.<br>
-**My Role**
+**My Role**<br>
 I led the development of libraries, dynamic frameworks, and apps for iOS in Swift language. Spearheaded the development and implementation of Personal Finance Management modules based on open banking.
 
 <p align="center">
@@ -23,6 +23,7 @@ I led the development of libraries, dynamic frameworks, and apps for iOS in Swif
 ## HumWell
 HumWell, where convenience meets healthcare.
 <br>
+**My Role**<br>
 As the lead developer, I initiated the project from scratch, I had to research Flutter and how to achieve Video Communication in the application, and later on, had to write native bindings to call native packages as Flutter was relatively new and had fewer support for WebRTC-related features. I was later promoted to Team Lead to lead and mentor 4 developers.
 <p align="center">
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-1.webp" height="200"  />
@@ -46,7 +47,7 @@ As the lead developer, I initiated the project from scratch, I had to research F
 ## Mywater-app
 mywater® is a water technology company specializing in smart and AI-based water purification systems for homes and offices. With certified components, cutting edge sensor technology and sleek designs, our purifiers will transform the way water gets to your glass.
 
-<br>
+**My Role**<br>
 As a Senior iOS Developer, I played a pivotal role in Mywater-app, focusing on MVC architecture and maintaining clean, scalable code. From project inception to a successful App Store launch, I oversaw the entire development cycle, optimized performance, mentored junior developers, integrated third-party services, and ensured rigorous testing and documentation. My commitment to staying updated with the latest iOS trends and effective communication with stakeholders contributed to project success.
 
 <p align="center">
