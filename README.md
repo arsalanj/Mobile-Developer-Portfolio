@@ -34,12 +34,12 @@ As the lead developer, I initiated the project from scratch, I had to research F
 
 
 **Tech Used**
-- Flutter, Dart
-- Swift, Objective-C
+- Flutter, Dart, Provider Pattern
+- Swift, Objective-C, MVC, UIkit
+- Deep-Linking, Firebase Analytics, Crashlytics, Remote configuration
 - WebRTC, Twilio, Native bindings Flutter To Native
-- Provider Pattern
-- Flutter Package/Plugin development
-- Cocoapod Development 
+- Flutter Package/Plugin development, Cocoapod Development
+- Custom Push Notification module development using Notification and Content Extensions in iOS. 
 
 [📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
 
@@ -85,8 +85,7 @@ Get support from Optix Fiber team. Find answers to common issues, log your compl
 
 
 **Tech Used**
-- Swift, Objective-C
-- MVC
+- Swift, Objective-C, MVC
 - Firebase Analytics, Push Notifications and Crashlytics
 - Customized Speed Test control using APIs and flow used by Ookla for Speedtest.
 
@@ -107,9 +106,8 @@ The initial version was developed natively in Swift and Android, and later on mi
 </p>
 
 **Tech Used**
-- Flutter, Dart
-- Swift, Objective-C
-- MVC
+- Flutter, Dart, bloc
+- Swift, Objective-C, MVC
 - Google maps heatmaps, clustering, marker and Info window management, geofencing, and custom map styling.
 - what3words API
 
@@ -135,10 +133,8 @@ Role: Team lead
 
 
 **Tech Used**
-- Flutter, Dart
-- Provider Pattern
-- Swift, Objective-C
-- MVC
+- Flutter, Dart, Provider Pattern
+- Swift, Objective-C, MVC
 - Native bindings to use Apple's Core Location framework
 - Standard and significant location updates
 - Region monitoring
@@ -157,8 +153,8 @@ This application is an initiative to reach out to millions of families in Sindh 
 
 
 **Tech Used**
-- Flutter, Dart
-- Provider Pattern
+- Flutter, Dart, Provider Pattern
+- Firebase Analytics, Crashlytics, Firestore 
 
 [📲 Available on the App Store](
 https://apps.apple.com/us/app/sindh-relief-initiative/id1504750372) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.sri&hl=en_CA&gl=US)
