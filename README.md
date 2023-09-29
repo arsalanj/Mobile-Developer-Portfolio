@@ -43,6 +43,25 @@ As the lead developer, I initiated the project from scratch, I had to research F
 
 [📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
 
+## Mycart
+Mycart.pk provides an enhanced shopping experience to consumers online, for their daily grocery needs and planned purchases of houseware. It operates 24/7 delivery and plans to expand its operations nationwide.
+
+**My Role**<br>
+As a Senior iOS Developer for the Mycart app e-commerce app, I led the development cycle, prioritizing clean code and MVC architecture. I optimized performance, mentored junior developers, integrated third-party services, and ensured thorough testing and documentation. Staying updated with iOS trends and effective stakeholder communication contributed to project success.
+
+<p align="center">
+<img src="https://codelabs.inc/wp-content/uploads/2022/05/Screenshot-2022-05-09-at-9.36-1.png" width="200" />
+<img src="https://codelabs.inc/wp-content/uploads/2022/05/Screenshot-2022-05-09-at-9.34-1.png" width="200"/>
+<img src="https://codelabs.inc/wp-content/uploads/2022/05/Screenshot-2022-05-09-at-9.34-2.png" width="200"/>
+<img src="https://codelabs.inc/wp-content/uploads/2022/05/Screenshot-2022-05-09-at-9.37-1.png" width="200"/>
+</p>
+
+
+
+**Tech Used**
+- Swift, Objective-C, MVC
+- Firebase Analytics, Push Notifications and Crashlytics
+
 
 ## Mywater-app
 mywater® is a water technology company specializing in smart and AI-based water purification systems for homes and offices. With certified components, cutting edge sensor technology and sleek designs, our purifiers will transform the way water gets to your glass.
