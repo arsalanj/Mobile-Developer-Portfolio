@@ -114,7 +114,7 @@ Get support from Optix Fiber team. Find answers to common issues, log your compl
 ## Hara Bhara Pakistan
 Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.
 <br>
-The initial version was developed natively in Swift and Android, and later on migrated to the Flutter framework in under a week by yours truly.
+The initial version was developed natively in Swift and Android, and later on migrated to the Flutter framework in under a week by myself.
 
 
 <p align="center">
