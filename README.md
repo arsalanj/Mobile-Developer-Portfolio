@@ -1,7 +1,7 @@
 # Portfolio - Muhammad Mehdi
 [My Resume](https://docs.google.com/document/d/1xm6-Wi2WruG7YNGlGyrm8zJZituo0-BkvNy1VfrlMsY/edit)
 
-## Project 1: Spire Ingage
+### Project 1: Spire Ingage
 **Overview**<br>
 Spire Ingage is a smart, AI-supported finance manager tailored for seamless integration into partner platforms.<br><br>
 **My Contributions**<br>
@@ -22,8 +22,10 @@ Spire Ingage is a smart, AI-supported finance manager tailored for seamless inte
 - MVVM, Clean Architecture
 - Dynamic Framework development, Cocoapods Development
 
+---
 
-## Project 2: HumWell
+
+### Project 2: HumWell
 **Overview**<br>
 HumWell is a healthcare app offering remote video communication and 24/7 medical convenience.
 <br><br>
@@ -51,7 +53,9 @@ HumWell is a healthcare app offering remote video communication and 24/7 medical
 
 [📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
 
-## Project 3: Mycart (E-commerce App)
+---
+
+### Project 3: Mycart (E-commerce App)
 **Overview**<br>
 The Mycart app optimizes online grocery shopping with features like real-time inventory, purchase tracking, and streamlined delivery.
 
@@ -74,8 +78,8 @@ The Mycart app optimizes online grocery shopping with features like real-time in
 - Swift, Objective-C, MVC
 - Firebase Analytics, Push Notifications and Crashlytics
 
-
-## Project 4: Mywater-App  
+---
+### Project 4: Mywater-App  
 
 **Overview**  
 mywater® is a cutting-edge water technology company revolutionizing water purification for homes and offices using AI-driven solutions. Their smart systems integrate certified components, advanced sensor technology, and sleek designs to deliver pure, high-quality water.
@@ -109,9 +113,9 @@ As a Senior iOS Developer, I was responsible for leading the app development lif
 
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/mywater-pk/id1464485043)
 
+---
 
-
-## Project 5: My Optix  
+### Project 5: My Optix  
 
 **Overview**  
 The My Optix app simplifies account management, payment processing, and customer support for Optix Fiber users. Key features include:  
@@ -143,6 +147,7 @@ The My Optix app simplifies account management, payment processing, and customer
 
 [`📲 Available on the App Store`](https://apps.apple.com/pk/app/my-optix/id1456128297)  
 
+---
 
 ### Hara Bhara Pakistan  
 
