@@ -1,10 +1,13 @@
 # Portfolio - Muhammad Mehdi
 [My Resume](https://docs.google.com/document/d/1xm6-Wi2WruG7YNGlGyrm8zJZituo0-BkvNy1VfrlMsY/edit)
 
-## Spire Ingage
-Smart, AI-backed personal finance manager, easily integrated into your platform.<br>
-**My Role**<br>
-I led the development of libraries, dynamic frameworks, and apps for iOS in Swift language. Spearheaded the development and implementation of Personal Finance Management modules based on open banking.
+## Project 1: Spire Ingage
+**Overview**<br>
+Spire Ingage is a smart, AI-supported finance manager tailored for seamless integration into partner platforms.<br><br>
+**My Contributions**<br>
+- Spearheaded development of modular, dynamic frameworks in Swift to optimize app flexibility.
+- Designed and implemented finance management modules utilizing open banking APIs.
+- Organized architecture using MVVM and Clean Architecture patterns.
 
 <p align="center">
 <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/spire-1.png" width="200"/>
@@ -20,11 +23,16 @@ I led the development of libraries, dynamic frameworks, and apps for iOS in Swif
 - Dynamic Framework development, Cocoapods Development
 
 
-## HumWell
-HumWell, where convenience meets healthcare.
-<br>
+## Project 2: HumWell
+**Overview**<br>
+HumWell is a healthcare app offering remote video communication and 24/7 medical convenience.
+<br><br>
 **My Role**<br>
-As the lead developer, I initiated the project from scratch, I had to research Flutter and how to achieve Video Communication in the application, and later on, had to write native bindings to call native packages as Flutter was relatively new and had fewer support for WebRTC-related features. I was later promoted to Team Lead to lead and mentor 4 developers.
+- Developed and implemented video communication features using WebRTC with custom Flutter-to-Native bindings when native support was limited.
+- Migrated app architecture to Provider Pattern, improving app state management and modularity.
+- Led a team of 4 developers, mentoring them in Flutter and efficient coding practices.
+<br>
+
 <p align="center">
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-1.webp" height="200"  />
   <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HW-2.webp" height="200"  />
@@ -43,11 +51,15 @@ As the lead developer, I initiated the project from scratch, I had to research F
 
 [📲 Available on the App Store](https://apps.apple.com/pk/app/humwell/id1506941942) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.humwell&hl=en&gl=US)
 
-## Mycart
-Mycart.pk provides an enhanced shopping experience to consumers online, for their daily grocery needs and planned purchases of houseware. It operates 24/7 delivery and plans to expand its operations nationwide.
+## Project 3: Mycart (E-commerce App)
+**Overview**<br>
+The Mycart app optimizes online grocery shopping with features like real-time inventory, purchase tracking, and streamlined delivery.
 
-**My Role**<br>
-As a Senior iOS Developer for the Mycart app e-commerce app, I led the development cycle, prioritizing clean code and MVC architecture. I optimized performance, mentored junior developers, integrated third-party services, and ensured thorough testing and documentation. Staying updated with iOS trends and effective stakeholder communication contributed to project success.
+
+**My Contributions**<br>
+- Architected the iOS app using MVC for maintainability and scalability.
+- Integrated Firebase Analytics to monitor user behavior and enhance in-app user flows.
+- Developed a seamless push notification delivery system using Crashlytics.
 
 <p align="center">
 <img src="https://codelabs.inc/wp-content/uploads/2022/05/Screenshot-2022-05-09-at-9.36-1.png" width="200" />
@@ -63,122 +75,168 @@ As a Senior iOS Developer for the Mycart app e-commerce app, I led the developme
 - Firebase Analytics, Push Notifications and Crashlytics
 
 
-## Mywater-app
-mywater® is a water technology company specializing in smart and AI-based water purification systems for homes and offices. With certified components, cutting edge sensor technology and sleek designs, our purifiers will transform the way water gets to your glass.
+## Project 4: Mywater-App  
 
-**My Role**<br>
-As a Senior iOS Developer, I played a pivotal role in Mywater-app, focusing on MVC architecture and maintaining clean, scalable code. From project inception to a successful App Store launch, I oversaw the entire development cycle, optimized performance, mentored junior developers, integrated third-party services, and ensured rigorous testing and documentation. My commitment to staying updated with the latest iOS trends and effective communication with stakeholders contributed to project success.
+**Overview**  
+mywater® is a cutting-edge water technology company revolutionizing water purification for homes and offices using AI-driven solutions. Their smart systems integrate certified components, advanced sensor technology, and sleek designs to deliver pure, high-quality water.
 
-<p align="center">
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-1.png" width="200" />
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-2.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-3.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-4.png" width="200"/>
+**My Role**  
+As a Senior iOS Developer, I was responsible for leading the app development lifecycle, ensuring clean, scalable, and efficient code. My contributions included:  
+- Designing the app architecture with **MVC** for a maintainable and robust codebase.  
+- Managing third-party service integrations to enhance feature functionality.  
+- Creating custom push notifications with **iOS notification and content extensions** to deliver a personalized user experience.  
+- Optimizing app performance and ensuring rigorous testing and documentation for a seamless App Store launch.  
+- Mentoring junior developers, fostering a productive team environment, and implementing best practices.  
+- Communicating effectively with stakeholders to align development goals with the company vision.  
+
+**Key Achievements**  
+- Successfully launched the Mywater app on the App Store.  
+- Developed advanced notification features, improving user engagement.  
+- Played a pivotal role in making the app scalable and reliable for long-term use.  
+
+**Tech Used**  
+- **Languages:** Swift, Objective-C  
+- **Architecture:** MVC  
+- **Technologies:** Firebase Analytics, Push Notifications, Crashlytics  
+- **Custom Features:** Notification and Content Extensions  
+
+<p align="center">  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-1.png" width="200" />  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-2.png" width="200"/>  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-3.png" width="200"/>  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/MW-4.png" width="200"/>  
 </p>
 
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/mywater-pk/id1464485043)
 
 
-**Tech Used**
-- Swift, Objective-C
-- MVC
-- Firebase Analytics, Push Notifications and Crashlytics
-- Custom Push Notification development using Notification and Content Extensions in iOS. 
 
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/mywater-pk/id1464485043) 
+## Project 5: My Optix  
 
+**Overview**  
+The My Optix app simplifies account management, payment processing, and customer support for Optix Fiber users. Key features include:  
+- Viewing and paying bills.  
+- Running customizable internet speed tests.  
+- Accessing support by logging complaints or live chatting with customer care representatives.  
+- Reviewing account details, such as current balance and previous statements.  
 
-## My Optix
-With My Optix App, managing your account, payments and getting support is fast and easy. Use it to view and pay your bill, run speed tests or chat with customer care agent all from your smartphone device.
-<br>
-Manage your My Optix account. View your account details, including your current balance and previous statements, and quickly manage your payments.
-Get support from Optix Fiber team. Find answers to common issues, log your complaint directly or contact Optix Fiber team member to get help.
+**My Role**  
+- Developed the app based on the **MVC architecture**, ensuring maintainable and clean code.  
+- Integrated **Firebase Analytics** and **Crashlytics** for performance monitoring and improved user experience.  
+- Created a **custom Speed Test feature** using APIs and methodologies inspired by **Ookla Speedtest**.  
 
+**Key Achievements**  
+- Enhanced the user experience through efficient handling of large data sets and APIs.  
+- Delivered a high-performance app that streamlined account management for Optix customers.  
 
-<p align="center">
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/OP-2.png"  />
-  <br>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/OP-1.png" />
- 
+**Tech Used**  
+- **Languages:** Swift, Objective-C  
+- **Architecture:** MVC  
+- **Technologies:** Firebase Analytics, Push Notifications, Crashlytics  
+- **Custom Features:** Speed Test Control using Ookla-inspired APIs  
+
+<p align="center">  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/OP-2.png" width="200" />  
+<br>  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/OP-1.png" width="200" />  
 </p>
 
+[`📲 Available on the App Store`](https://apps.apple.com/pk/app/my-optix/id1456128297)  
 
 
-**Tech Used**
-- Swift, Objective-C, MVC
-- Firebase Analytics, Push Notifications and Crashlytics
-- Customized Speed Test control using APIs and flow used by Ookla for Speedtest.
+### Hara Bhara Pakistan  
 
+**Overview**  
+Hara Bhara Pakistan is a national initiative aimed at promoting sustainability and environmental awareness by uniting schools, businesses, communities, and individuals to plant trees and contribute to a greener future.  
 
-[`📲 Available on the App Store`](https://apps.apple.com/pk/app/my-optix/id1456128297) 
+**My Role**  
+- Developed the app's initial version natively for both iOS (**Swift**) and Android.  
+- Migrated the app to the **Flutter framework** in under a week for enhanced cross-platform compatibility.  
+- Implemented advanced mapping features such as **Google Maps heatmaps, clustering, marker management, and geofencing**.  
+- Integrated **what3words API** to simplify location input and address-related workflows.  
 
-## Hara Bhara Pakistan
-Hara Bhara Pakistan is an initiative that aims to drive the nation towards a greener and more sustainable future by uniting schools, businesses, communities, and individuals under the common goal of planting more trees in their respective capacities.
-<br>
-The initial version was developed natively in Swift and Android, and later on migrated to the Flutter framework in under a week by myself.
+**Key Achievements**  
+- Delivered a seamless and user-friendly migration to Flutter, improving development efficiency and user experience.  
+- Built custom map styling to enhance mapping features and usability.  
 
+**Tech Used**  
+- **Languages:** Flutter (Dart), Swift, Objective-C  
+- **Patterns:** bloc, MVC  
+- **Features:** Google Maps (heatmaps, clustering, geofencing), what3words API  
 
-<p align="center">
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-2.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-3.png" width="200"/>
-<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-4.png" width="200"/>
+**Screenshots**  
+<p align="center">  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-1.png" width="200"/>  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-2.png" width="200"/>  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-3.png" width="200"/>  
+<img src="https://github.com/arsalanj/Portfolio-Images/blob/main/HBP-4.png" width="200"/>  
 </p>
 
-**Tech Used**
-- Flutter, Dart, bloc
-- Swift, Objective-C, MVC
-- Google maps heatmaps, clustering, marker and Info window management, geofencing, and custom map styling.
-- what3words API
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/hara-bhara-pakistan/id1433804755) | [`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.d4sys.harabharapakistan&hl=en_CA&gl=US)  
 
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/hara-bhara-pakistan/id1433804755) | [`📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=com.d4sys.harabharapakistan&hl=en_CA&gl=US)
+---
 
-## TRACK N TRAXE - EFFICIENT FLEET MANAGEMENT IN REAL-TIME
-A fully integrated and automated telematics platform, offering an efficient goal-driven fleet management system to facilitate business operations.
-Provide a once and for All Solution To Your Vehicle Safety And Monitoring Needs.
-Role: Team lead
+### TRACK N TRAXE  
 
+**Overview**  
+Track N Traxe is a fully integrated telematics platform that provides real-time, goal-driven solutions for efficient fleet management and vehicle monitoring.  
 
-<p align="center">
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-1.png" width="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-2.png" width="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-3.png" width="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-4.png" width="200"  />
-   <br>
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-5.png" width="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-6.png" width="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-7.png" width="200"  />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-8.png" width="200"  />
+**My Role**  
+As the Team Lead, I was responsible for:  
+- Architecting and developing app features using **Flutter** and **Provider Pattern** for a scalable, modular design.  
+- Leveraging **Core Location framework** features for precise location tracking, region monitoring, and beacon ranging.  
+- Implementing advanced navigation tools with **compass headings and significant location updates**.  
+- Mentoring a team while overseeing app performance optimization and issue resolution.  
+
+**Key Achievements**  
+- Delivered a robust fleet management app for real-time vehicle safety and tracking.  
+- Designed a highly efficient location monitoring system using native bindings.  
+
+**Tech Used**  
+- **Languages:** Flutter (Dart), Swift, Objective-C  
+- **Patterns:** MVC, Provider  
+- **Features:** Significant location updates, Core Location framework, Region Monitoring, Beacon Ranging, Compass Headings  
+
+**Screenshots**  
+<p align="center">  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-1.png" width="200"  />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-2.png" width="200"  />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-3.png" width="200"  />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-4.png" width="200"  />  
+  <br />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-5.png" width="200"  />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-6.png" width="200"  />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-7.png" width="200"  />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/TNT-8.png" width="200"  />  
+</p>  
+
+---
+
+### Sindh Relief Initiative  
+
+**Overview**  
+Developed for the Sindh government, this app facilitates outreach to daily-wage workers by providing them with ration bags. The initiative ensures uniform disbursement data recording and management by partnering with welfare organizations.  
+
+**My Role**  
+- Designed the app using **Flutter** and **Provider Pattern** for optimal state management and maintainability.  
+- Incorporated Firebase features like **Analytics**, **Crashlytics**, and **Firestore** for real-time monitoring and reliability.  
+
+**Key Achievements**  
+- Delivered a robust solution that supported uniform disbursement tracking for millions of families in need.  
+
+**Tech Used**  
+- **Languages:** Flutter (Dart)  
+- **Features:** Firebase Analytics, Crashlytics, Firestore  
+
+**Screenshots**  
+<p align="center">  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-1.png" width="200" style="margin-right: 10px;" />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-2.png" width="200" style="margin-right: 10px;" />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-3.png" width="200" style="margin-right: 10px;" />  
+  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-4.png" width="200" style="margin-right: 10px;" />  
 </p>
 
-
-**Tech Used**
-- Flutter, Dart, Provider Pattern
-- Swift, Objective-C, MVC
-- Native bindings to use Apple's Core Location framework
-- Standard and significant location updates
-- Region monitoring
-- Beacon ranging
-- Compass headings
-
-## Sindh Relief Initiative
-This application is an initiative to reach out to millions of families in Sindh based on daily wages to provide them with Ration bags. Sindh government partners with welfare organizations to record and manage uniform disbursement data.
-
-<p align="center">
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-1.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-2.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-3.png" width="200" style="margin-right: 10px;" />
-  <img src="https://github.com/arsalanj/Portfolio-Images/blob/main/SRI-4.png" width="200" style="margin-right: 10px;" />
-</p>
-
-
-**Tech Used**
-- Flutter, Dart, Provider Pattern
-- Firebase Analytics, Crashlytics, Firestore 
-
-[📲 Available on the App Store](
-https://apps.apple.com/us/app/sindh-relief-initiative/id1504750372) | [📲 Available on the PlayStore`](https://play.google.com/store/apps/details?id=inc.codelabs.sri&hl=en_CA&gl=US)
-
-
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/sindh-relief-initiative/id1504750372) | [`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=inc.codelabs.sri&hl=en_CA&gl=US)  
 
 
 <!-- add volt gaming,  intrfaxe, custom firmware developmer esp8266, -->
