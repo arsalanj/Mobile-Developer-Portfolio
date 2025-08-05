@@ -1,5 +1,4 @@
 # Portfolio - Muhammad Mehdi
-[My Resume](https://docs.google.com/document/d/1xm6-Wi2WruG7YNGlGyrm8zJZituo0-BkvNy1VfrlMsY/edit)
 
 ### Project 1: Spire Ingage
 **Overview**<br>
