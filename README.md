@@ -1,6 +1,6 @@
 # Portfolio - Muhammad Mehdi
 
-### Project 1: Spire Ingage
+### Project #1: Spire Ingage
 **Overview**<br>
 Spire Ingage is a smart, AI-supported finance manager tailored for seamless integration into partner platforms.<br><br>
 **My Contributions**<br>
@@ -24,7 +24,7 @@ Spire Ingage is a smart, AI-supported finance manager tailored for seamless inte
 ---
 
 
-### Project 2: HumWell
+### Project #2: HumWell
 **Overview**<br>
 HumWell is a healthcare app offering remote video communication and 24/7 medical convenience.
 <br><br>
@@ -54,7 +54,7 @@ HumWell is a healthcare app offering remote video communication and 24/7 medical
 
 ---
 
-### Project 3: Mycart (E-commerce App)
+### Project #3: Mycart (E-commerce App)
 **Overview**<br>
 The Mycart app optimizes online grocery shopping with features like real-time inventory, purchase tracking, and streamlined delivery.
 
@@ -78,7 +78,7 @@ The Mycart app optimizes online grocery shopping with features like real-time in
 - Firebase Analytics, Push Notifications and Crashlytics
 
 ---
-### Project 4: Mywater-App  
+### Project #4: Mywater-App  
 
 **Overview**  
 mywater® is a cutting-edge water technology company revolutionizing water purification for homes and offices using AI-driven solutions. Their smart systems integrate certified components, advanced sensor technology, and sleek designs to deliver pure, high-quality water.
@@ -114,7 +114,7 @@ As a Senior iOS Developer, I was responsible for leading the app development lif
 
 ---
 
-### Project 5: My Optix  
+### Project #5: My Optix  
 
 **Overview**  
 The My Optix app simplifies account management, payment processing, and customer support for Optix Fiber users. Key features include:  
