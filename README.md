@@ -210,4 +210,3 @@ Drop me a message or book a **free 30-minute consult**.
 
 ---
 
-> *Note: If some images still don’t load, double-check your repo path and branch names. Use `raw.githubusercontent.com` paths for static images.*
