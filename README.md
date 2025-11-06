@@ -4,7 +4,7 @@
 
 With 10 years of experience in varying spaces such as **Swift, Flutter, C++**, and embedded systems, I deliver **proof-of-concept (POC) solutions**, **feature stabilization**, and **legacy modernization** with **zero ramp-up**.
 
-[📧 Book Free 30-min Consult](mailto:arsalanjaf@gmail.com?subject=Portfolio%20Consult)
+[📧 Book Free 30-min Consult](mailto:arsalanjaf@gmail.com)
 
 ---
 ## 🔧 What I Offer
