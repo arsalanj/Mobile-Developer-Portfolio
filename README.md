@@ -153,4 +153,4 @@ With 10 years of experience in varying spaces such as **Swift, Flutter, C++**, a
 ---
 ## ✉️ Let’s Talk
 Need a **POC in 5 days**, a **legacy rewrite**, or a **battle-tested feature**?  
-[📧 Book Free 30-min Consult](mailto:mehdi@yourdomain.com?subject=Portfolio%20Consult&body=Hi%20Mehdi,%0A%0AI’d%20like%20to%20discuss%20my%20project.%0A%0AThanks!)
+[📧 Book Free 30-min Consult](mailto:arsalanjaf@gmail.com?subject=Portfolio%20Consult&body=Hi%20Mehdi,%0A%0AI’d%20like%20to%20discuss%20my%20project.%0A%0AThanks!)
