@@ -17,19 +17,6 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 - **Cross-Platform & Security Integrations**  
   Flutter ↔ Native bindings, encrypted storage (SecureDoc, FIDO2), secure communication (WebAuthn, CTAP), CI/CD automation.  
 
----
-## 🧠 Technical Skills
-| Domain | Skills & Tools |
-|---|---|
-| **Mobile & UI** | Swift, Objective-C, Flutter (Dart), SwiftUI, UIKit, Qt, Combine, VIPER |
-| **Architecture** | MVVM, Clean Architecture, MVC, Provider, BLoC, GetX, SOLID, DI |
-| **Systems & Backend** | C/C++, WebRTC, REST APIs, Firebase/Firestore, Node.js (web scraping), Bash |
-| **CI/CD & Tooling** | GitHub Actions, Fastlane, Codemagic, Cocoapods, Swift Package Manager, XCFrameworks, Jenkins, Bitrise, Docker, TestFlight |
-| **Testing & Debugging** | XCTest, XCUITest, Widget Tests, Integration Tests, Unit Tests, UI Tests, TDD, BDD, LLDB, Instruments |
-| **Data & Storage** | CoreData, Realm, SwiftData, Firebase (Analytics, Crashlytics) |
-| **Security & Auth** | FIDO, FIDO2, CTAP, WebAuthn, SecureDoc encryption, secure local storage |
-| **Embedded & IoT** | ESP8266 firmware (C), BLE, WebKit, Accessibility compliance |
-| **Other** | Perforce, GitLab, Bitbucket, SVN, Jira, Confluence, VSCode |
 
 ---
 ## 🚀 Selected Projects
@@ -165,6 +152,19 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 - **FIDO2 passwordless auth** — Reduced login friction by 40%.  
 - **CI/CD pipelines** — GitHub Actions, Jenkins, Bitrise, Docker.  
 
+---
+## 🧠 Technical Skills
+| Domain | Skills & Tools |
+|---|---|
+| **Mobile & UI** | Swift, Objective-C, Flutter (Dart), SwiftUI, UIKit, Qt, Combine, VIPER |
+| **Architecture** | MVVM, Clean Architecture, MVC, Provider, BLoC, GetX, SOLID, DI |
+| **Systems & Backend** | C/C++, WebRTC, REST APIs, Firebase/Firestore, Node.js (web scraping), Bash |
+| **CI/CD & Tooling** | GitHub Actions, Fastlane, Codemagic, Cocoapods, Swift Package Manager, XCFrameworks, Jenkins, Bitrise, Docker, TestFlight |
+| **Testing & Debugging** | XCTest, XCUITest, Widget Tests, Integration Tests, Unit Tests, UI Tests, TDD, BDD, LLDB, Instruments |
+| **Data & Storage** | CoreData, Realm, SwiftData, Firebase (Analytics, Crashlytics) |
+| **Security & Auth** | FIDO, FIDO2, CTAP, WebAuthn, SecureDoc encryption, secure local storage |
+| **Embedded & IoT** | ESP8266 firmware (C), BLE, WebKit, Accessibility compliance |
+| **Other** | Perforce, GitLab, Bitbucket, SVN, Jira, Confluence, VSCode |
 ---
 
 ## ✉️ Let’s Talk
