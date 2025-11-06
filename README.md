@@ -4,7 +4,7 @@
 
 With 10 years of experience in varying spaces such as **Swift, Flutter, C++**, and embedded systems, I deliver **proof-of-concept (POC) solutions**, **feature stabilization**, and **legacy modernization** with **zero ramp-up**.
 
-[📧 Book Free 30-min Consult](mailto:mehdi@yourdomain.com?subject=Portfolio%20Consult&body=Hi%20Mehdi,%0A%0AI’d%20like%20to%20discuss%20my%20project.%0A%0AThanks!)
+[📧 Book Free 30-min Consult](mailto:arsalanjaf@gmail.com?subject=Portfolio%20Consult&body=Hi%20Mehdi,%0A%0AI’d%20like%20to%20discuss%20my%20project.%0A%0AThanks!)
 
 ---
 ## 🔧 What I Offer
