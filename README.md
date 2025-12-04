@@ -7,7 +7,7 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 📧 **Book a Free 30-min Consult:** arsalanjaf@gmail.com | 📍 Waterloo, Ontario, Canada  
 
 ---
-## 🔧 What I Deliver
+##  What I Deliver
 - **Rapid POC & MVP Engineering**  
   Features ready for investor demos or launches **in days, not weeks** — delivered MVPs in 2 months using Lean & Extreme Programming.  
 - **Production-Quality Feature Stabilization**  
@@ -19,7 +19,7 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 
 
 ---
-## 🚀 Selected Projects
+##  Selected Projects
 ### 1️⃣ Spire Ingage — Finance Manager (iOS)  
 **Enterprise white-label financial app with deep integration capabilities**  
 - Designed **XCFrameworks & dynamic Swift frameworks** for open banking APIs, enabling partner apps to embed finance features.  
@@ -145,7 +145,7 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 </p>
 
 ---
-## 🧩 Other Expertise
+##  Other Expertise
 - **ESP8266 firmware & embedded C** — Custom IoT modules for networked devices.  
 - **Low-level WebRTC performance (C/C++)** — Optimized networking layer for video calls.  
 - **Custom Flutter plugins** adopted across teams.  
@@ -153,7 +153,7 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 - **CI/CD pipelines** — GitHub Actions, Jenkins, Bitrise, Docker.  
 
 ---
-## 🧠 Technical Skills
+##  Technical Skills
 | Domain | Skills & Tools |
 |---|---|
 | **Mobile & UI** | Swift, Objective-C, Flutter (Dart), SwiftUI, UIKit, Qt, Combine, VIPER |
