@@ -1,10 +1,10 @@
 # Muhammad Mehdi — Mobile & macOS Consultant
 **I help startups build, modernize, and secure mobile & macOS applications — fast, stable & production-ready.**  
-✅ **10+ Apps in App Store** | **500K+ Users** | **🟢 30+ hrs/week — Available Immediately**  
+ **10+ Apps in App Store** | **500K+ Users** | ** 30+ hrs/week — Available Immediately**  
 
 With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded systems — I deliver **POCs in days**, **stabilize critical features**, and **modernize legacy apps** with **zero ramp-up**. Proven in fintech (open banking), healthcare (telemedicine), e-commerce, IoT, telematics, utilities, and government apps.  
 
-📧 **Book a Free 30-min Consult:** arsalanjaf@gmail.com | 📍 Waterloo, Ontario, Canada  
+ **Book a Free 30-min Consult:** arsalanjaf@gmail.com |  Waterloo, Ontario, Canada  
 
 ---
 ##  What I Deliver
