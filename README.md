@@ -52,10 +52,10 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 </p>
 
 ---
-### 3️⃣ SecureDoc / Magic Endpoint — Enterprise Encryption (macOS + Flutter)  
+### 3️⃣ SecureDoc / MagicEndpoint — Enterprise Encryption (macOS + Flutter)  
 **Full-disk & removable media encryption with modern SSO**  
 - Maintained **C++/Qt macOS app**, integrated **SwiftUI modules** for UX modernization.  
-- Built **Magic Endpoint** (SwiftUI/macOS + Flutter mobile) with **public-private key SSO**.  
+- Built **MagicEndpoint** (SwiftUI/macOS + Flutter mobile) with **public-private key SSO**.  
 - Automated **Fastlane + shell scripts** → **30% faster builds, zero manual errors**.  
 - Integrated with **SecureDoc Enterprise Server (SES)** for managed deployments.  
 **Stack:** C++, Qt, SwiftUI, Flutter, Fastlane, Bash, Encryption  
