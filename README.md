@@ -133,8 +133,8 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 📲 App Store: https://apps.apple.com/pk/app/my-optix/id1456128297  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/OP-2.png" width="400"/>
-<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/OP-1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/OP-2.png" width="600"/>
+<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/OP-1.png" width="600"/>
 </p>
 
 ---
