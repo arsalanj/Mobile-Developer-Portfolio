@@ -60,10 +60,10 @@ With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded
 📲 Play Store: https://play.google.com/store/apps/details?id=inc.codelabs.humwell  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-1.webp" width="200"/>
-<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-2.webp" width="200"/>
-<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-3.webp" width="200"/>
-<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-4.webp" width="200"/>
+<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-1.webp" width="400"/>
+<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-2.webp" width="400"/>
+<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-3.webp" width="400"/>
+<img src="https://raw.githubusercontent.com/arsalanj/Portfolio-Images/main/HW-4.webp" width="400"/>
 </p>
 
 ---
