@@ -1,4 +1,4 @@
-# Muhammad Mehdi — Mobile & Desktop app Consultant
+# Mehdi(Arsalan) — Mobile & Desktop app Consultant
 **I help founders, startups, solopreneurs, and enterprises build, modernize, and secure mobile & Desktop applications — fast, stable & production-ready.**  
 **10+ Apps in App Store** | **500K+ Users** | **30+ hrs/week — Available Immediately**  
 
