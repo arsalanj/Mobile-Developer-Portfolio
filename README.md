@@ -1,23 +1,6 @@
 # Mehdi(Arsalan) — Mobile & Desktop app Consultant
-**I help founders, startups, solopreneurs, and enterprises build, modernize, and secure mobile & Desktop applications — fast, stable & production-ready.**  
-**10+ Apps in App Store** | **500K+ Users** | **30+ hrs/week — Available Immediately**  
 
 With 10 years of experience across **Swift**, **Flutter**, **C++**, and embedded systems — I deliver **POCs in days**, **stabilize critical features**, and **modernize legacy apps** with **zero ramp-up**. Proven in fintech (open banking), healthcare (telemedicine), e-commerce, IoT, telematics, utilities, and government apps.  
-
-**📩 Book a Free 30-min Consult:** [arsalanjaf@gmail.com](mailto:arsalanjaf@gmail.com)  
-📍 Waterloo, Ontario, Canada
-
----
-##  What I Deliver
-- **Rapid POC & MVP Engineering**  
-  Features ready for investor demos or launches **in days, not weeks** — delivered MVPs in 2 months using Lean & Extreme Programming.  
-- **Production-Quality Feature Stabilization**  
-  Debug, refine, and harden modules for **crash-free releases** — reduced crashes by 90% via architecture migrations.  
-- **Architecture & Legacy Modernization**  
-  UIKit → SwiftUI, Qt → SwiftUI, Objective-C interop with C++, Flutter migrations, modularization via XCFrameworks & dynamic libraries.  
-- **Cross-Platform & Security Integrations**  
-  Flutter ↔ Native bindings, encrypted storage (SecureDoc, FIDO2), secure communication (WebAuthn, CTAP), CI/CD automation.  
-
 
 ---
 ## Selected Projects
